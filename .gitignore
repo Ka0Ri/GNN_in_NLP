@@ -135,3 +135,13 @@ data
 ml-latest-small
 Planetoid
 Mutagenicity
+NLP_data
+
+# weights
+lightning_logs
+*.model
+
+# setting
+*.log
+*.ttf
+*.otf
